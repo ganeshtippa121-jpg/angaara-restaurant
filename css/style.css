@@ -2005,13 +2005,13 @@ textarea.form-input {
 }
 
 .logo img {
-    height: 90px;
+    height: 100px;
     width: auto;
     display: block;
 }
 
 .header .container {
-    min-height: 100px;
+    min-height: 110px;
 }
 
 .logo img:hover{
