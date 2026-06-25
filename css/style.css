@@ -2005,9 +2005,8 @@ textarea.form-input {
 }
 
 .logo img{
-    height:80px;
+    height:160px;
     width:auto;
-    transition:.3s;
 }
 
 .logo img:hover{
