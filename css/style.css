@@ -2003,3 +2003,13 @@ textarea.form-input {
     align-items: center;
   }
 }
+
+.logo img{
+    height:80px;
+    width:auto;
+    transition:.3s;
+}
+
+.logo img:hover{
+    transform:scale(1.05);
+}
