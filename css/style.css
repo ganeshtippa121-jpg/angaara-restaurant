@@ -2004,9 +2004,14 @@ textarea.form-input {
   }
 }
 
-.logo img{
-    height:160px;
-    width:auto;
+.logo img {
+    height: 90px;
+    width: auto;
+    display: block;
+}
+
+.header .container {
+    min-height: 100px;
 }
 
 .logo img:hover{
